@@ -51,7 +51,7 @@ Setup Python environment using either a terminal or an IDE like PyCharm.
 - Terminal setup
 
 ```bash
-# Create a virtual environment
+# Create a folder "calcium_env" to host virtual environment
 python -m venv calcium_env
 ```
 

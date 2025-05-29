@@ -35,6 +35,7 @@ This pipeline is used to:
 - Visualize average responses.
 
 ✅ No prior programming experience is required 
+✅ Terminnlogy used : directory = folder. 
 
 ## Requirements
 
@@ -103,6 +104,7 @@ git clone https://github.com/<your-username>/<your-repo-name>.git
 
 ## Download Demo data
 Download a complete set of demo data to test the analysis pipeline:
+(quesion :do they need to be saved in a speicif foder?)
 
 🔗 [Google Drive:](https://drive.google.com/drive/folders/1SJ6MvMnjAEGj97EMcBNw9BtBAGIzd_ie?usp=sharing)
 

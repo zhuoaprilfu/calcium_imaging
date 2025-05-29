@@ -114,6 +114,7 @@ Download a complete set of demo data to test the analysis pipeline:
   - Analysis Folder (`CIAnalysis_120s.py`) 
   🔗 [Download from Google Drive](https://drive.google.com/drive/folders/1jOz49KPs6MrifaxbZA1E5XVw5MqSgAFq?usp=drive_link)  
   A pre-configured `Analysis/` directory including `Neuron 0`, `Neuron 1`, and background files which is ready for testing `CIAnalysis_120s.py`.
+("pre-configured" means data colected from `Neuron 0`, `Neuron 1`? Guess we need a little more calrificaiton of them. also we might want to expalin warm cells vs. neuron 0, and neuron 1.)
 
   - Temperature-Aligned Demo (`CITbind_dynamic.py`) 
   🔗 [Download from Google Drive](https://drive.google.com/drive/folders/1Os7cZcNqwWUiyfrDLTFGgrDq9NQP3Y_W?usp=drive_link)  

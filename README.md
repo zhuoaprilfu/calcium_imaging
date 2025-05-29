@@ -46,7 +46,7 @@ To complete the analysis following softwares are required:
 
 ## Setup Instructions
 
-Setup Python environment using either a terminal or an IDE like PyCharm.
+Setup Python virtual environment using either a terminal or an IDE like PyCharm.
 
 - Terminal setup
 

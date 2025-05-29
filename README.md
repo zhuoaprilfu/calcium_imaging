@@ -93,7 +93,7 @@ Clone or download this repository into the same directory as your virtual enviro
 git clone https://github.com/<your-username>/<your-repo-name>.git 
 ```
 
-- Download ZIP
+- Download ZIP (if you dont have github account)
 
   - Click the green "Code" button on this GitHub page
 

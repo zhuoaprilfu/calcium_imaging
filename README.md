@@ -70,7 +70,8 @@ source calcium_env/bin/activate
 
 ```bash
 # Active the environment for Windows:
-calcium_env\Scripts\activate       
+calcium_env\Scripts\activate
+ .\calcium_env\Scripts\Activate.ps1  (at least my current temrnial requires that .\ )
 ```
 - Pycharm setup
 
